@@ -2,12 +2,12 @@
 
 ## Backend module (Springboot & Java 8)
 
-Il modulo di backend è sviluppato in Java 8 con l'utilizzo di Springboot come framework di backend.
+The backend module is developed in Java 8 with the use of Springboot like backend's framework.
 
-Ulteriori tecnologie utilizzate saranno:
-- Base dati MySQL con container Docker per evitare di avere il server MySQL in locale
-- Swagger per l'esposizione delle REST APIs
-- Lombok per la gestione di Spring Data
+Other tech stacks used in this project are:
+- MySQL DB containeraized with Docker
+- Swagger for the exposing of REST APIs
+- Lombok for the managing of Spring Data module
 
 ![java-logo](https://img.icons8.com/color/60/000000/java-coffee-cup-logo--v1.png)
 ![springboot-logo](https://img.icons8.com/color/60/000000/spring-logo.png)
@@ -21,5 +21,11 @@ Ulteriori tecnologie utilizzate saranno:
 
 ## Frontend module (Angular 13)
 
-Il modulo di frontend è sviluppato in Typescript con Angular 13. Il frontend, principalmente, si occupererà di recuperare i dati dal backend
-e di mostrarli in pagina con il giusto render
+The frontend module is developed in Typescript with Angular 13. The frontend, mainly, will take care of recovering the data from the backend
+and to show them on the page with the right rendering
+
+![angular-logo](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png)
+![typescript-logo](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png)
+![javascript-logo](https://img.icons8.com/color/60/000000/javascript--v1.png)
+![html5-logo](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-shadow-tal-revivo.png)
+![css3-logo](https://img.icons8.com/color/60/000000/css3.png)
