@@ -3,7 +3,9 @@ package it.vscalcione.springboot.demoapplication.service.impl;
 import it.vscalcione.springboot.demoapplication.dto.RegistrationRequest;
 import it.vscalcione.springboot.demoapplication.model.User;
 import it.vscalcione.springboot.demoapplication.model.VerificationToken;
+import it.vscalcione.springboot.demoapplication.repository.VerificationTokenRepository;
 import it.vscalcione.springboot.demoapplication.service.AuthService;
+import it.vscalcione.springboot.demoapplication.service.MailService;
 import lombok.AllArgsConstructor;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
@@ -23,6 +25,7 @@ public class AuthServiceImpl implements AuthService {
     @Override
     public void signup(RegistrationRequest registrationRequest) {
         User user = new User();
+
 
     }
 
