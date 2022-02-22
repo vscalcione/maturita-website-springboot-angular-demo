@@ -1,4 +1,8 @@
 package it.vscalcione.springboot.demoapplication.service;
 
-public class MailService {
+import it.vscalcione.springboot.demoapplication.model.NotificationEmail;
+
+public interface MailService {
+
+    void sendEmail(NotificationEmail notificationEmail);
 }
