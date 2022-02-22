@@ -1,2 +1,5 @@
-package it.vscalcione.springboot.demoapplication.model;public class NotificationEmail {
+package it.vscalcione.springboot.demoapplication.model;
+
+public class NotificationEmail {
+
 }

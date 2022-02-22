@@ -1,2 +1,4 @@
-package it.vscalcione.springboot.demoapplication.repository;public class VerificationTokenRepository {
+package it.vscalcione.springboot.demoapplication.repository;
+
+public class VerificationTokenRepository {
 }

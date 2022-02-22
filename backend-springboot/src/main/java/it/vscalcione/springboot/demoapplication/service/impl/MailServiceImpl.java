@@ -1,2 +1,4 @@
-package it.vscalcione.springboot.demoapplication.service.impl;public class MailServiceImpl {
+package it.vscalcione.springboot.demoapplication.service.impl;
+
+public class MailServiceImpl {
 }
