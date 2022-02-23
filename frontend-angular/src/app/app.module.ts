@@ -10,9 +10,11 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatButtonModule } from '@angular/material/button';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatSelectModule } from '@angular/material/select';
+import { ToolbarComponent } from './components/toolbar/toolbar.component';
+import { SelectComponent } from './components/select/select.component';
 
 @NgModule({
-  declarations: [AppComponent],
+  declarations: [AppComponent, ToolbarComponent, SelectComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
