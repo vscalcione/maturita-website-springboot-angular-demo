@@ -1,6 +1,7 @@
 package it.vscalcione.springboot.demoapplication.controller;
 
 import it.vscalcione.springboot.demoapplication.dto.RegistrationRequest;
+import it.vscalcione.springboot.demoapplication.service.AuthService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

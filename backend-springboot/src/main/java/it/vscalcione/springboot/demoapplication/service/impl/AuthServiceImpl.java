@@ -17,7 +17,7 @@ import javax.transaction.Transactional;
 public class AuthServiceImpl implements AuthService {
 
     private final PasswordEncoder passwordEncoder;
-    private final UserRepository userRepository;
+    //private final UserRepository userRepository;
     private final VerificationTokenRepository verificationTokenRepository;
     private final MailService mailService;
 
