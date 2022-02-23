@@ -17,7 +17,11 @@ import javax.transaction.Transactional;
 public class AuthServiceImpl implements AuthService {
 
     private final PasswordEncoder passwordEncoder;
+<<<<<<< HEAD
 //    private final UserRepository userRepository;
+=======
+    //private final UserRepository userRepository;
+>>>>>>> bc1cbe5d71a72bee2ed9f915f6c9d4b6bed699dd
     private final VerificationTokenRepository verificationTokenRepository;
     private final MailService mailService;
 
